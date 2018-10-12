@@ -70,7 +70,7 @@ class Send():
 
     def send(self, to_addr):
         from_addr = "1010151284@qq.com"  # 发件人 Email 地址和口令
-        password = "wjozciesfeopbbgc"
+        password = "************"
         smtp_server = "smtp.qq.com"  # SMTP 服务器地址
         # to_addr = "yanpengma@163.com"  # 收件人地址
         # to_addr = "adress1010151284@126.com"  # 收/件人地址
